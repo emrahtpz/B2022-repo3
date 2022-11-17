@@ -14,3 +14,5 @@ Few things happened:
 
 
   how to save after adding some text in sublime
+
+  We do not have to 1 commit at a time
